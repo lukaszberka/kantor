@@ -1,0 +1,9 @@
+.background {
+    background-image: url("../images/background.png");
+    resize: both;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+
+}

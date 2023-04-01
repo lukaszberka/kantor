@@ -9,11 +9,10 @@ html {
 
 body {
     font-family: "Lato", sans-serif;
-
 }
 
 .container {
-    background-image: url("..images/background.png");
+    background-color: white;
     max-width: 700px;
     margin: 0 auto;
     padding: 0 20px;
@@ -23,3 +22,4 @@ body {
     padding: 10px;
     text-align: center;
 }
+
