@@ -9,9 +9,11 @@ html {
 
 body {
     font-family: "Lato", sans-serif;
+
 }
 
 .container {
+    background-image: url("..images/background.png");
     max-width: 700px;
     margin: 0 auto;
     padding: 0 20px;
