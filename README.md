@@ -4,4 +4,4 @@ https://lukaszberka.github.io/kantor/
 
 ## Opis
 
-Ta strona pozwala na przeliczenie polskiej waluty na euro, franki szwajcarskie i korony czeskie.
+This website allows for conversion of the Polish currency into euros, Swiss francs, and Czech crowns.
